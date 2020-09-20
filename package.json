@@ -25,7 +25,7 @@
   "peerDependencies": {
     "vue": "^2.6.11"
   },
-  "devDependencies": {
+  "dependencies": {
     "@babel/core": "^7.8.7",
     "@babel/preset-env": "^7.8.7",
     "@vue/babel-helper-vue-jsx-merge-props": "^1.0.0",
